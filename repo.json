@@ -1,0 +1,11 @@
+{
+  "name": "My Repo",
+  "extensions": [
+    {
+      "name": "Harpi Pro",
+      "pkg": "https://raw.githubusercontent.com/ogong69/paperback-repo/main/harpi-pro.zip",
+      "version": "2.0.0",
+      "lang": "ko"
+    }
+  ]
+}
